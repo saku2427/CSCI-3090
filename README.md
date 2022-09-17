@@ -1,1 +1,1 @@
-# CSCI-3090
+CSCI-3090 Quantum Computing
